@@ -1,0 +1,13 @@
+How are you
+What time is it
+Stop talking
+Sleep
+Close
+
+Show Command List
+Show Open List
+
+Hide List
+
+Switch voice to male
+Switch voice to female

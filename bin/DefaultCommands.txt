@@ -1,0 +1,35 @@
+Matt
+How are you
+What time is it
+Stop talking
+Close
+Shut Down
+I Go Sleep
+.
+Show Command list
+Show open list
+Hide list
+.
+Switch voice to male
+Switch voice to female
+.
+Open Chrome
+Open youtube
+Open lichess
+Open 10fastfingers
+Open Discord
+Open League of Legends
+Open Minecraft
+Open Visual Studio
+Open Steam
+Open Paladins
+Open Spotify
+.
+Close Chrome
+Close League of Legends
+Close Minecraft
+Close Visual Studio
+Close Discord
+Close Steam
+Close Paladins
+Close Spotify
